@@ -1,0 +1,51 @@
+body {
+	background-color: #FFF0F0;
+	font-family: Garamond,Verdana;
+	display: inline;
+}
+
+#header {
+	border: 1px solid black;
+	display: fixed;
+	background-color: white;
+	font-family: Arial, Verdana;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+
+}
+
+#bod {
+	font-family: Verdana;
+	padding: 5px;
+	clear: right;
+	margin-top: 95px;
+	text-align: center;
+}
+
+#sidebar {
+	background-color: white;
+	font-family: Arial, Verdana;
+	text-align: center;
+	border: 1px solid black;
+	border-top-color: white;
+	width: 100px;
+	height: 100%;
+	padding-top: 5px;
+	float: left;
+	margin-top: 95px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+a:visited{
+	color: purple;
+}
+
